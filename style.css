@@ -13,12 +13,12 @@ aside,
 footer {
     background: #ebebeb;
     text-align: center;
-    padding: 20px;
+    padding: 30px;
     margin: 5px;
     margin-bottom: 10px;
 }
 section {
-    width: 450px;
+    width: 52%; 
     height: 226px;
     float: left;
 }
@@ -31,23 +31,24 @@ article {
 }
 aside {
     float: left;
-    width: 410px;
+    width: 33.3%;
     height: 226px;
 }
 footer {
     clear: both;
+    margin-top: 25px;
 }
 #header_style {
     margin: 25px;
     background: #ebebeb; 
     color:#777;
-    padding: 10px;
+    padding: 15px;
 }
 #paragraph_style {
     margin: 25px;
     background: #ebebeb; 
     color:#777;
-    padding: 10px;
+    padding: 15px;
 }
 
 

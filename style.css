@@ -21,38 +21,49 @@ section {
     width: 52%; 
     height: 226px;
     float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 15px;
 }
 article {
     color: #ebebeb;
     background: #777;
     display: block;
     margin-top: 25px;
-    padding: 5px;
+    padding-top: 15px;
+    /* padding: 5px; */
     padding-left: 20px;
     padding-right: 20px;
-    padding-bottom: 55px;
+    padding-bottom: 25px;
 }
 aside {
-    float: left;
-    width: 33.3%;
+    float: right;
+    width: 37%;
     height: 226px;
+    padding-top: 0px;
+    padding-bottom: 60px;
+    padding-right: 25px;
 }
 footer {
     clear: both;
-    margin-top: 25px;
+    /* margin-top: 85px; */
 }
 #header_style {
-    margin-top: 25px;
-    margin-bottom: 5px;
+    margin-top: 15px;
+    margin-bottom: 10px;
     background: #ebebeb; 
     color:#777;
     padding: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 #paragraph_style {
     margin-top: 5px;
     background: #ebebeb; 
     color:#777;
     padding: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 

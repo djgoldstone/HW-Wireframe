@@ -13,55 +13,63 @@ aside,
 footer {
     background: #ebebeb;
     text-align: center;
-    padding: 30px;
-    margin: 5px;
+}
+header,
+nav {
+    padding: 35px;
+}
+header {
     margin-bottom: 10px;
 }
 section {
-    width: 52%; 
-    height: 226px;
+    width: 495px; 
+    height: 246px;
     float: left;
+    padding-top: 10px;
+    padding-bottom: 30px;
     padding-left: 10px;
     padding-right: 10px;
-    margin-bottom: 15px;
+    margin-top: 25px;
+    margin-bottom: 25px;
 }
 article {
     color: #ebebeb;
     background: #777;
     display: block;
-    margin-top: 25px;
-    padding-top: 15px;
+    margin-top: 10px;
+    padding-top: 20px;
+    padding-bottom: 15px;
     padding-left: 20px;
     padding-right: 20px;
-    padding-bottom: 25px;
 }
 aside {
     float: right;
-    width: 37%;
-    height: 226px;
-    padding-top: 0px;
-    padding-bottom: 60px;
+    width: 40%;
+    height: 246px;
+    margin-top: 25px;
+    padding-bottom: 40px;
     padding-right: 25px;
+    padding-left: 15px;
 }
 footer {
     clear: both;
+    padding: 35px;
+}
+h1,
+p {
+    background: #ebebeb; 
+    color:#777;
+    padding: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 #header_style {
     margin-top: 15px;
     margin-bottom: 10px;
-    background: #ebebeb; 
-    color:#777;
-    padding: 15px;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    font-weight: bold;
 }
 #paragraph_style {
     margin-top: 5px;
-    background: #ebebeb; 
-    color:#777;
-    padding: 15px;
-    padding-top: 20px;
-    padding-bottom: 20px;
 }
 
 
